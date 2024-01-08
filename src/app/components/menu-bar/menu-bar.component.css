@@ -10,3 +10,11 @@
     list-style: none;
 }
 
+.NewPag > a{
+
+    position: relative;
+    left: 500px;
+
+    
+}
+
